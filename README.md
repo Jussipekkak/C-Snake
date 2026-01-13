@@ -3,7 +3,7 @@
 Yksinkertainen Snake-peli toteutettuna C#:lla konsolisovelluksena.  
 Projekti on tehty oppimistarkoituksessa ja keskittyy pelilogiikkaan, silmukkaan, tilanhallintaan ja käyttäjän syötteeseen.
 
-<img src="snake.png" width="30%">
+<img src="Snake.png" width="30%">
 
 ## Features
 - Klassinen Snake-pelimekaniikka
